@@ -33,15 +33,15 @@
 
 
 
-[Scan pairing code](https://jay-md-scanner-43bbe5e15e05.herokuapp.com/pair)
+[Scan pairing code](https://jay-md-scanner1-4a694122a9ee.herokuapp.com/pair)
 
 
 
-[Scan Qr](https://jay-md-scanner-43bbe5e15e05.herokuapp.com/qr)
+[Scan Qr](https://jay-md-scanner1-4a694122a9ee.herokuapp.com/qr)
 
 
 
-[Full App](https://jay-md-scanner-43bbe5e15e05.herokuapp.com/qr)
+[Full App](https://jay-md-scanner1-4a694122a9ee.herokuapp.com/)
 
 
 ### Thanks to god
