@@ -3,7 +3,7 @@
 ## Best Whatsapp Bot
 
 
-  <a href="https://ibb.co/N6NMDtn"><img src="https://telegra.ph/file/7a0ada33ec9b812cea5f4.jpg" alt="01" border="0" /><                  
+  <a href="https://ibb.co/N6NMDtn"><img src="https://telegra.ph/file/58580d6ff96d9b412944d.jpg" alt="01" border="0" /><                  
 
 
 ## Join Whatsapp Group
