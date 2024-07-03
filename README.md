@@ -33,11 +33,11 @@
 
 
 
-[Scan pairing code](https://jay-md-scanner1-4a694122a9ee.herokuapp.com/pair)
+[Scan pairing code](https://jaydenp-12ea9d06ae0c.herokuapp.com/pair)
 
 
 
-[Scan Qr](https://jay-md-scanner1-4a694122a9ee.herokuapp.com/qr)
+[Scan Qr](https://jaydenp-12ea9d06ae0c.herokuapp.com/qr)
 
 
 
